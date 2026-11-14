@@ -1,0 +1,4 @@
+# Paste your API key below (without quotes or with quotes):
+# OPENAI_API_KEY="your_actual_openai_api_key_here"
+# If using Gemini instead of OpenAI:
+GEMINI_API_KEY=AQ.Ab8RN6K0OqvhMyTCmO6KnO4Et3UP-HmY_UTWUbu37yxNBkfu7g
